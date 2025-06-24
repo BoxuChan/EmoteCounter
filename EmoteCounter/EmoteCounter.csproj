@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Dalamud.NET.Sdk/12.0.2">
   <PropertyGroup>
     <Authors>Boxu, MgAl2O4</Authors>
-    <Version>1.0</Version>
+    <Version>1.0.0.1</Version>
     <Description>Ever wondered how many times an emote is used on you? Now is the time to know!</Description>
     <Copyright>(c) 2025 MgAl2O4</Copyright>
     <PackageProjectUrl>https://github.com/Boxu_Chan/EmoteCounter</PackageProjectUrl>

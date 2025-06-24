@@ -12,15 +12,9 @@
     "TestingDalamudApiLevel": 12,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-<<<<<<< HEAD
     "DownloadLinkInstall": "https://github.com/BoxuChan/EmoteCounter/releases/download/1.0.0.3/EmoteCounter.zip",
     "DownloadLinkUpdate": "https://github.com/BoxuChan/EmoteCounter/releases/download/1.0.0.3/EmoteCounter.zip",
     "IconUrl": "https://raw.githubusercontent.com/BoxuChan/EmoteCounter/master/assets/icon.png",
-=======
-    "DownloadLinkInstall": "https://github.com/BoxuChan/EmoteCounter/releases/download/1.0.0.2/EmoteCounter.zip",
-    "DownloadLinkUpdate": "https://github.com/BoxuChan/EmoteCounter/releases/download/1.0.0.2/EmoteCounter.zip",
-    "IconUrl": "https://raw.githubusercontent.com/BoxuChan/EmoteCounter/master/EmoteCounter/assets/icon.png",
->>>>>>> 61e2b52c8db83e9a37e0d8fb39717035fdbde957
     "Tags": [
       "Boxu"
     ]

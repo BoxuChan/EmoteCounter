@@ -7,5 +7,6 @@
   "ApplicableVersion": "any",
   "Tags": [
     "Boxu"
-  ]
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/BoxuChan/EmoteCounter/master/assets/icon.png"
 }

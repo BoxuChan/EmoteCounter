@@ -14,7 +14,7 @@
     "IsTestingExclusive": "False",
     "DownloadLinkInstall": "https://github.com/BoxuChan/EmoteCounter/releases/download/1.0.0.1/EmoteCounter.zip",
     "DownloadLinkUpdate": "https://github.com/BoxuChan/EmoteCounter/releases/download/1.0.0.1/EmoteCounter.zip",
-    "IconUrl": "https://raw.githubusercontent.com/BoxuChan/EmoteCounter/master/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/BoxuChan/EmoteCounter/master/assets/icon.png",
     "Tags": [
       "Boxu"
     ]

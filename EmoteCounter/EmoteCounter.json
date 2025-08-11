@@ -1,12 +1,12 @@
 {
-  "Author": "Boxu, MgAl2O4",
+  "Author": "BoxuChan, MgAl2O4",
   "Name": "EmoteCounter",
   "Punchline": "Ever wondered how many times an emote is used on you? Now is the time to know!",
   "Description": "Ever wondered how many times an emote is used on you? Now is the time to know!",
   "InternalName": "EmoteCounter",
   "ApplicableVersion": "any",
   "Tags": [
-    "Boxu"
+    "BoxuChan"
   ],
   "IconUrl": "https://raw.githubusercontent.com/BoxuChan/EmoteCounter/master/assets/icon.png"
 }

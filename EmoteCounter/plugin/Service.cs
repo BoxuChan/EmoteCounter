@@ -26,6 +26,9 @@ namespace EmoteCounter
 
         [PluginService]
         public static IClientState clientState { get; private set; } = null!;
+        
+        [PluginService]
+        public static IPlayerState playerState { get; private set; } = null!;
 
         [PluginService]
         public static IChatGui chatGui { get; private set; } = null!;

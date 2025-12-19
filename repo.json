@@ -5,18 +5,20 @@
     "Punchline": "Ever wondered how many times an emote is used on you? Now is the time to know!",
     "Description": "Ever wondered how many times an emote is used on you? Now is the time to know!",
     "InternalName": "EmoteCounter",
-    "AssemblyVersion": "1.0.0.4",
+    "AssemblyVersion": "1.13.0.0",
     "RepoUrl": "https://github.com/BoxuChan/EmoteCounter",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 13,
-    "TestingDalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
+    "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/BoxuChan/EmoteCounter/releases/download/1.0.0.4/EmoteCounter.zip",
-    "DownloadLinkUpdate": "https://github.com/BoxuChan/EmoteCounter/releases/download/1.0.0.4/EmoteCounter.zip",
+    "DownloadLinkInstall": "https://github.com/BoxuChan/EmoteCounter/releases/download/1.13.0.0/EmoteCounter.zip",
+    "DownloadLinkUpdate": "https://github.com/BoxuChan/EmoteCounter/releases/download/1.13.0.0/EmoteCounter.zip",
     "IconUrl": "https://raw.githubusercontent.com/BoxuChan/EmoteCounter/master/EmoteCounter/assets/icon.png",
     "Tags": [
-      "Boxu"
+      "Boxu",
+      "Emote",
+      "Counter"
     ]
   }
 ]

@@ -78,7 +78,7 @@ namespace EmoteCounter
             windowCounters.IsOpen = false;
         }
 
-        private void ClientState_TerritoryChanged(uint e)
+        private void ClientState_TerritoryChanged(ushort e)
         {
             Service.emoteCounters.ForEach(counter => counter.OnTerritoryChanged());
         }
